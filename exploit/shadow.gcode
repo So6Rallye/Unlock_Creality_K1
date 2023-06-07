@@ -1,0 +1,10 @@
+root:$5$/iMbCgHty3$rM7UZICj9tmUe13BcAOUgVvpa.sSMV4k/t2Yes64ZZ9:::::::
+daemon:*:::::::
+bin:*:::::::
+sys:*:::::::
+sync:*:::::::
+mail:*:::::::
+www-data:*:::::::
+operator:*:::::::
+nobody:*:::::::
+dbus:*:::::::
