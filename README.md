@@ -2,7 +2,9 @@
 
 ***Forked from https://github.com/giveen/K1_Files***
 
-***I've rework all the steps and add Mainsail access***
+***I've reworked all the steps and add Mainsail access***
+
+***---------------------------------------------------------------------------------***
 
 ***An exploit that allows you to get root access to the system Creality K1 / K1 max.***
 
