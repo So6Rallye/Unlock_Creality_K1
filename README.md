@@ -14,7 +14,17 @@
 
 ***Please refer to [here](https://github.com/So6Rallye/K1_Files/tree/main/exploit) for details***
 
+# Activate FLUIDD and/or Mainsail
+
+***Please refer to [here](https://github.com/So6Rallye/K1_Files/blob/main/exploit/Enable_FLUIDD%20and%20MAINSAIL) for details***
+
+# Custom loading Screen
+
+***Please refer to [here](https://github.com/So6Rallye/K1_Files/blob/main/exploit/Custom%20loading%20screen) for details***
+
 # Credits
+
+***@So6Rallye***
 
 ***Thanks to @xand3r40r93 on Reddit***
 
