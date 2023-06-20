@@ -22,6 +22,10 @@
 
 ***Please refer to [here](https://github.com/So6Rallye/K1_Files/blob/main/exploit/Custom%20loading%20screen) for details***
 
+# Update Fluidd
+
+***Please refer to [here](https://github.com/So6Rallye/K1_Files/blob/main/exploit/UPDATE%20FLUIDD) for details***
+
 # Credits
 
 ***@So6Rallye***
