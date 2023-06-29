@@ -1,5 +1,7 @@
 # Unlock Your Creality K1 / K1 Max
 
+***!!! DON'T DO THE UPDATE 1.2.9.21 AT THE MOMENT !!!***
+
 ***Forked from https://github.com/giveen/K1_Files***
 
 ***I've reworked all the steps and add Mainsail access***
